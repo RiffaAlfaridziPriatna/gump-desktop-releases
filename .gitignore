@@ -1,0 +1,5 @@
+# Ignore accidental local artifacts — zips belong on GitHub Releases only.
+*.zip
+*.dmg
+*.pkg
+.DS_Store

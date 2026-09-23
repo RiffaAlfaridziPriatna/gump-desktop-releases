@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>GUMP Desktop Updates</title>
+    <link>https://gump.app</link>
+    <description>
+      GUMP Desktop application updates. Populated by the gump-desktop Release workflow.
+      Do not commit zip binaries into this git repo — only GitHub Release assets.
+    </description>
+  </channel>
+</rss>
