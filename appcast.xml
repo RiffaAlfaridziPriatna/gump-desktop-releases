@@ -7,28 +7,28 @@
 
   <!-- macOS (Sparkle reads this) -->
   <item>
-    <title>Version 1.0.2 (macOS)</title>
-    <sparkle:version>1.0.2</sparkle:version>
-    <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-    <pubDate>Wed, 23 Sep 2026 09:04:39 GMT</pubDate>
+    <title>Version 1.0.3 (macOS)</title>
+    <sparkle:version>1.0.3</sparkle:version>
+    <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+    <pubDate>Thu, 15 Oct 2026 03:22:37 GMT</pubDate>
     <enclosure
-      url="https://github.com/RiffaAlfaridziPriatna/gump-desktop-releases/releases/download/2026-09-23/Gump-MacOS-v1.0.2.zip"
+      url="https://github.com/RiffaAlfaridziPriatna/gump-desktop-releases/releases/download/2026-10-14/Gump-MacOS-v1.0.3.zip"
       sparkle:os="macos"
-      sparkle:edSignature="cbjbKwgLhq2RLf8ik0FlLh0Vxw+dMYgijeK2gGS31YhXqmjW/O3LO1Qq2YxTAUcR5rqHXyFC6HB5TAbGe7lCDA=="
-      length="39796346"
+      sparkle:edSignature="N5iAI/JS4Gcx4mmU3VL617TK6lT5gR37Kq8Wo6/G8HbbbwQCpi4m2rRY0Y8Uezn79kGtXqHPr9Z7wU8Cfk04Cw=="
+      length="42860050"
       type="application/octet-stream"/>
   </item>
 
   <!-- Windows (WinSparkle reads this) -->
   <item>
-    <title>Version 0.0.0.1 (Windows)</title>
-    <sparkle:version>0.0.0.1</sparkle:version>
-    <sparkle:shortVersionString>0.0.0.1</sparkle:shortVersionString>
-    <pubDate>Wed, 23 Sep 2026 09:04:39 GMT</pubDate>
+    <title>Version 1.0.2.0 (Windows)</title>
+    <sparkle:version>1.0.2.0</sparkle:version>
+    <sparkle:shortVersionString>1.0.2.0</sparkle:shortVersionString>
+    <pubDate>Thu, 15 Oct 2026 03:22:37 GMT</pubDate>
     <enclosure
-      url="https://github.com/RiffaAlfaridziPriatna/gump-desktop-releases/releases/download/2026-09-23/Gump-Windows-v0.0.0.1.zip"
+      url="https://github.com/RiffaAlfaridziPriatna/gump-desktop-releases/releases/download/2026-10-14/Gump-Windows-v1.0.2.0.zip"
       sparkle:os="windows"
-      length="28137606"
+      length="30636086"
       type="application/octet-stream"/>
   </item>
 </channel>
